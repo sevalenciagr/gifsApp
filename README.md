@@ -2,6 +2,7 @@
 
 Este es un proyecto de búsqueda de gifs en Angular. Se pueden realizar búsquedas por nombre. 
 
+![gifs](https://github.com/sevalenciagr/gifsApp/assets/88304046/9b9e36fd-dc20-4d37-a0a0-b35bb61066ea)
 
 
 ## Demostración
